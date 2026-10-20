@@ -80,6 +80,15 @@
       "url": "https://github.com/kiankhooban/open-paths",
       "description": "Click a file path in Claude's reply and the file opens in its app: Word, Preview or Excel for documents, your editor at the line for app.py:42, Finder for folders. Launchers, scripts and unknown types are never opened",
       "tags": []
+    },
+    {
+      "name": "workflow-conductor",
+      "marketplace": "workflow-conductor",
+      "repo": "bruw/workflow-conductor",
+      "author": "bruw",
+      "url": "https://github.com/bruw/workflow-conductor",
+      "description": "Terminal UI for planning, running and understanding complex agent workflows inside Claude Code: define the workflow as a graph, have Claude script and run it, and watch the run on the same graph. Needs Claude Code 2.1.296+ and a terminal 110+ columns wide",
+      "tags": ["band", "pane", "command"]
     }
   ]
 }
